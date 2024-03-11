@@ -2,28 +2,28 @@
     {
         "id": 1,
         "title": "Web Development",
-        "image": "1.jpg",
+        "image": "1.png",
         "description": "Explore the exciting world of web development and create stunning, dynamic websites. Dive into the latest technologies and build your online presence with style and functionality."
     },
     
     {
         "id": 2,
         "title": "App Development",
-        "image": "2.jpg",
+        "image": "2.png",
         "description": "Embark on a journey into app development, where innovation meets usability. Craft powerful mobile applications that captivate users and make a lasting impact in the digital landscape."
     },
     
     {
         "id": 3,
         "title": "Software Development",
-        "image": "3.jpg",
+        "image": "3.png",
         "description": "Immerse yourself in the world of software development and bring ideas to life through coding and problem-solving. Create robust, scalable software solutions that drive technological progress."
     },
     
     {
         "id": 4,
         "title": "UX/UI Design",
-        "image": "4.jpg",
+        "image": "4.png",
         "description": "Explore the art and science of UX/UI design, where user experience and interface design harmonize to create visually appealing and user-friendly digital products. Shape the future of digital interaction."
     }
 ]
