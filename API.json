@@ -18,7 +18,7 @@
         "title": "Software Development",
         "image": "3.png",
         "description": "Immerse yourself in the world of software development and bring ideas to life through coding and problem-solving. Create robust, scalable software solutions that drive technological progress."
-    }
+    },
     
     {
         "id": 4,
@@ -26,15 +26,18 @@
         "image": "4.png",
         "description": "Explore the art and science of UX/UI design, where user experience and interface design harmonize to create visually appealing and user-friendly digital products. Shape the future of digital interaction."
     },
-     {
+    
+    {
         "id": 5,
         "title": "Web Accessibility Services",
         "image": "5.png",
         "description": "In the ever-evolving digital landscape, inclusivity is paramount. Our Web Accessibility Services go beyond design and development – they are a commitment to making the online world accessible to everyone. We meticulously ensure that websites cater to users with disabilities, adhering to the highest web accessibility standards and guidelines."
-    }, {
+    }, 
+    
+    {
         "id": 6,
         "title": "Website Performance Optimization",
         "image": "6.png",
         "description": "In the fast-paced online realm, speed is not just a luxury; it's a necessity. Our Website Performance Optimization services are dedicated to enhancing your digital presence by transforming user experiences. We explore the intricacies of your website, fine-tuning its performance to ensure swift loading times and a seamless navigation journey."
-    },
+    }
 ]
